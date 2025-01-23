@@ -1,6 +1,21 @@
 # selenium and playwright set-up
 
+## Instructions in the Repository
 
+* **Clone the Repository**
+  First, ensure that Git is installed on your system. Then clone the repository to your local machine.
+  Run the following command in your terminal:
+
+  `git clone https://github.com/criscarlod/selenium-ui.git`
+* **Navigate to the Project Directory**
+  After cloning, move into the project folder:
+
+  `cd <project path directory>`
+  </code></div></div></pre>
+* **Install Dependencies**
+  Ensure Node.js and npm are installed. Then, run the following command to install the required dependencies:
+
+  `npm install`
 
 ### **Selenium WebDriver**
 
@@ -32,7 +47,6 @@ project/
 ├── utils/
 │   ├── screenshotHelper.js
 ├── package.json
-
 
 #### Explanation of Folders
 
